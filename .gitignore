@@ -6,6 +6,7 @@ data/googleMapKey.js
 app.json
 
 
+
 node_modules/
 .expo/
 npm-debug.*
